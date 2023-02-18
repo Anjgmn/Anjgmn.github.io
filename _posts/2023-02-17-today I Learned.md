@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "0217 TIL"
-date:
+date: 2023-02-18 19:25:00 +0900
 categories: TIL
 ---
 
