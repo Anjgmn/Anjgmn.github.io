@@ -4,8 +4,8 @@ highlighter: rouge
 
 # Setup
 title: anjgmn
-tagline: "A Jekyll theme"
-description: '<a href="https://Anjgmn.github.io" target="_blank">anjgmn</a>'
+tagline: "나도 개발 웹도 개발"
+description: '<a href="https://github.com/Anjgmn" target="_blank">anjgmn</a>'
 url: https://Anjgmn.github.io
 baseurl:
   "/"
