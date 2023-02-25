@@ -40,7 +40,7 @@ author: anjgmn
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "나개웹개 (cleft) 2017-{currentYear} {author}"
+copyright: "나개웹개 (cleft) 2022-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   나도 개발하고 웹도 개발합니다.
